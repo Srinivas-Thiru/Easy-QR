@@ -13,7 +13,7 @@ This is a QR code generator application built using React and the PrimeReact UI 
 1. Clone the repository to your local machine using:
 
    ```bash
-   git clone https://github.com/yourusername/qr-code-generator.git
+   git clone https://github.com/Srinivas-Thiru/qr-code-generator.git
    ```
 
 2. Navigate to the project directory:
