@@ -1,6 +1,3 @@
-Certainly! Here's a README for your GitHub repository based on the provided code:
-
----
 
 # QR Code Generator App
 
