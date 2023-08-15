@@ -99,3 +99,12 @@ img {
   border-radius: 10px;
 
 }
+
+@media (max-width:750px) {
+  .qr,
+  .options {
+    width: 80vw;
+  }
+  h1 {
+    font-size: 1.75rem;}
+}
