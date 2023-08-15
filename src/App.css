@@ -106,5 +106,9 @@ img {
     width: 80vw;
   }
   h1 {
-    font-size: 1.75rem;}
+    font-size: 1.75rem;
+  }
+  .btn {
+    margin-top:15px;
+  
 }
