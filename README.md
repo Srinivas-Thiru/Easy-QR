@@ -1,5 +1,5 @@
 
-# QR Code Generator App
+# Easy-QR 
 
 This is a QR code generator application built using React and the PrimeReact UI library. The app allows users to generate QR codes from provided URLs with customizable colors.
 
