@@ -3,7 +3,7 @@
 
 This is a QR code generator application built using React and the PrimeReact UI library. The app allows users to generate QR codes from provided URLs with customizable colors.
 
-[Checkout the Website Live!!!](https://qr-code-generator-git-main-srinivas-thiru.vercel.app/)
+
 
 ## Features
 
